@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Zack Carter, a college student studying B.Tech CSE in VIT Chennai with a focus on AI & ML. ^_^
+I'm Ajay Anand, a college student studying B.Tech CSE in VIT Chennai with a focus on AI & ML. ^_^
 
 I'm passionate about computer science, software development, and technology, and I enjoy understanding how things work and building things with code.
 
